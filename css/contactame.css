@@ -1,0 +1,23 @@
+
+  .contact {
+    flex-direction: column;
+ 
+ 
+    display: flex;
+    text-align: left;
+    padding: 80px 60px;
+    border: 2px solid #0a0606;
+    background-color: rgb(241, 201, 223);
+  
+  }
+  
+
+.text-center { 
+    @media (max-width: 991px) {
+        .imgs {
+          width: 80%;
+          height: auto;
+        }
+}
+
+  
