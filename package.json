@@ -1,0 +1,29 @@
+{
+  "name": "personalpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/micaelaisla/personalpage.git"
+  },
+  "author": "Micaela Isla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/micaelaisla/personalpage/issues"
+  },
+  "homepage": "https://bitbucket.org/micaelaisla/personalpage#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-icons": "^1.4.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
