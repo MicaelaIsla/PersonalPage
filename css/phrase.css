@@ -37,8 +37,14 @@
   
 
  
-  .img-project{
-    height: 200px;
-    width: 200px;
-  }
+
   
+
+  
+  .card-group mt-3{
+    color: #2e2e31;
+    padding: 40px 20px;
+    background-color: rgb(241, 201, 223);
+    border: 1px solid #111111;
+  
+  }
