@@ -1,3 +1,12 @@
+
+
+.imagen-rulo{
+height:50%;
+width:50%;  
+display:block;
+margin:auto;
+}
+
 body {
   background-color: rgb(167, 241, 238);
 }
@@ -9,10 +18,5 @@ footer {
   padding: 80px 20px 60px;
   background-color: #ee0f91;
   color: white;
-}
-
-
-.jumbotron{
-  background-color: #ee0f91;
 }
 
